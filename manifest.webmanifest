@@ -1,0 +1,20 @@
+
+{
+  "name": "Jovem Pan São Paulo 100,9 FM",
+  "short_name": "Jovem Pan",
+  "description": "Jovem Pan São Paulo ao vivo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101827",
+  "theme_color": "#ffcc00",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
