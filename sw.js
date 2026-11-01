@@ -1,5 +1,5 @@
 
-const CACHE = 'jovem-pan-v2';
+const CACHE = 'jovem-pan-v3';
 
 const FILES = [
   './',
