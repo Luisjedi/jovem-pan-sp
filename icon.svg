@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#ffcc00"/>
+  <text x="256" y="335"
+    font-family="Arial,sans-serif"
+    font-size="250"
+    font-weight="900"
+    letter-spacing="-20"
+    text-anchor="middle"
+    fill="#111827">JP</text>
+</svg>
